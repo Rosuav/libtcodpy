@@ -1,3 +1,2 @@
 build/
 *.so
-libtcodpy.c
